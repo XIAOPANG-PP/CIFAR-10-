@@ -112,6 +112,5 @@ python gridsearch.py
 
 ### ParamVis
 
-[`utils/ParamVis.py`](ParamVis.py)提供了对模型网络初始化和训练后各层参数的可视化代码（包括直方图和热力图）
-
+[`ParamVis.py`](ParamVis.py)提供了对模型网络初始化和训练后各层参数的可视化代码（包括直方图和热力图）
 ### 更多代码细节的说明详见报告
